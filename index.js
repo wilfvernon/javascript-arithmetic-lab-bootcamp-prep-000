@@ -19,4 +19,4 @@ function dec(n){
 function makeInt(n){
   console.log(parseInt(n, 10))
 }
-makeInt('nonsense')
+makeInt(55.66)
