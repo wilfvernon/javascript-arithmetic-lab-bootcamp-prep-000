@@ -17,6 +17,6 @@ function dec(n){
   return n--
 }
 function makeInt(n){
-  return parseInt(n, 10)
+  console.log(parseInt(n, 10))
 }
 makeInt('nonsense')
